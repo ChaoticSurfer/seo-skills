@@ -611,6 +611,7 @@ Performance (both):
 - `../seo-shared/structured-data.md`
 - `../seo-shared/geo-aeo.md`
 - `../seo-shared/audit-rubric.md`
+- `../seo-shared/tools.md` — free vs paid tool catalogue, what each one gives you, recommended stack by budget
 
 ## Sources
 
