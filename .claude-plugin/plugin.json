@@ -1,0 +1,26 @@
+{
+  "name": "seo-skills",
+  "version": "0.1.0",
+  "description": "Production-grade SEO audit & optimization skills for Next.js 15, Astro 5, and Nuxt 3 (TypeScript). 2026 Core Web Vitals, GEO/AEO, structured data, and optional Semrush MCP integration.",
+  "author": {
+    "name": "Anri Kezeroti",
+    "email": "anri.k@edumentors.co.uk",
+    "url": "https://github.com/ChaoticSurfer"
+  },
+  "homepage": "https://github.com/ChaoticSurfer/seo-skills",
+  "repository": "https://github.com/ChaoticSurfer/seo-skills",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "nextjs",
+    "astro",
+    "nuxt",
+    "vue",
+    "typescript",
+    "core-web-vitals",
+    "structured-data",
+    "geo",
+    "aeo",
+    "semrush"
+  ]
+}
