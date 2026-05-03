@@ -612,6 +612,7 @@ Performance (both):
 - `../seo-shared/geo-aeo.md`
 - `../seo-shared/audit-rubric.md`
 - `../seo-shared/tools.md` — free vs paid tool catalogue, what each one gives you, recommended stack by budget
+- `../seo-shared/platforms.md` — every external platform that needs registration, with verification method + setup time + recommended priority order
 
 ## Sources
 

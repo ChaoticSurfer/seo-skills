@@ -18,7 +18,7 @@ description: SEO audit and optimization for Next.js 15 App Router (TypeScript). 
 | **Inputs** | Domain, optional GSC/CrUX/GA4 access, target keywords, scope (full site / page list) |
 | **Phases** | 1. Detect → 2. Audit → 3. Score → 4. Fix → 5. Validate |
 | **Outputs** | Findings with evidence + confidence, top-10 prioritized action plan, per-page code patches |
-| **Reference files** | `reference/checklist.md`, `../seo-shared/core-web-vitals.md`, `../seo-shared/structured-data.md`, `../seo-shared/geo-aeo.md`, `../seo-shared/audit-rubric.md`, `../seo-shared/tools.md` |
+| **Reference files** | `reference/checklist.md`, `../seo-shared/core-web-vitals.md`, `../seo-shared/structured-data.md`, `../seo-shared/geo-aeo.md`, `../seo-shared/audit-rubric.md`, `../seo-shared/tools.md`, `../seo-shared/platforms.md` |
 | **Optional MCPs** | Semrush MCP (`mcp__semrush__*`). If connected, run the augmented audit module in `../seo-shared/semrush-mcp.md`. The skill works fully without it — Semrush adds competitor & keyword-volume evidence on top. |
 
 Read shared references when you need depth on CWV thresholds, JSON-LD templates, GEO patterns, or scoring rubric. Don't recite — link.
@@ -464,6 +464,7 @@ Set monitoring:
 - `../seo-shared/geo-aeo.md` — AI Overview / LLM citation tactics
 - `../seo-shared/audit-rubric.md` — 100-point scorecard + finding format
 - `../seo-shared/tools.md` — free vs paid tool catalogue, what each one gives you, recommended stack by budget
+- `../seo-shared/platforms.md` — every external platform that needs registration, with verification method + setup time + recommended priority order
 
 ## Sources
 
